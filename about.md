@@ -6,7 +6,7 @@ tags = ["syntax", "code"]
 +++
 
 
-# Hello I'm Cesar
+# Hello I'm César
 ~~~
 <div class = "about" >
 <img style = "width: 300px ; " src = "/assets/about.jpeg">
