@@ -66,6 +66,8 @@ the Scoutmaster organizing the activities and as a teacher Staff.</p>
 
 <p><b>Piano Player: </b> I play the piano since about 7 years ago. I like to play classical music, especially Chopin pieces. I <a href = "https://youtu.be/eZm3Jzl8KyE">link</a> in here my latest recital.</p>
 
+<p><b>Editor: </b> Work as an editor in two short films on “Festival Ponte Los Cortos”. Winning the total of 6 awards and 11 nominations.</p>
+
 ~~~
 ## Find Me:
 
