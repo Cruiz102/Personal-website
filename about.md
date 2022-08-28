@@ -8,9 +8,9 @@ tags = ["syntax", "code"]
 
 # Hello I'm Cesar
 ~~~
-<div style = "position: relative;display: flex; justify-content: flex-start; right: 50px; align-items: initial;">
+<div class = "about" >
 <img style = "width: 300px ; " src = "/assets/about.jpeg">
-<div style = "margin-left: 40px ;">
+<div class = "info">
 <p> I consider myself a self-taught programmer with Interest in Mathematical Computing. My favorite programming language is Python and currently I'm in love with <a href = "https://julialang.org/">Julia<a/>.
 </p></div>
 </div>
@@ -18,7 +18,7 @@ tags = ["syntax", "code"]
 
 
 ## Contact Me:
-@@row
+@@contactme
 @@container
 Personal Email:
 ##### cruiznavarro44@gmail.com

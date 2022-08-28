@@ -1,17 +1,17 @@
 @def title = "Franklin Example"
 @def tags = ["syntax", "code"]
 
-# Cesar A. Ruiz Navarro
+# César A. Ruiz Navarro
 
 <!--\tableofcontents <!-- you can use \toc as well -->
 ![](/assets/phto.jpg)
 ~~~
 <br>
 ~~~
-I'm a freshman student at the University of Puerto Rico on Mayaguez Campus. I'm passionate about Mathematics and Software in general. Currently an enthusiastic about Machine Learning and its algorithms.
+I'm a freshman student at the University of Puerto Rico on Mayagüez Campus. I'm passionate about Mathematics and Software in general. Currently an enthusiastic about Machine Learning and its algorithms.
 
 
-## Skills
+## Skills:
 ### Programming Language:
 @@container
 @@row
@@ -30,11 +30,11 @@ I'm a freshman student at the University of Puerto Rico on Mayaguez Campus. I'm 
 @@icon [![](assets/pyqt.png)](https://doc.qt.io/qtforpython/)@@
 @@
 @@
-## Proffiency
+## Proficiency:
 * **Python:** Scientific Libraries: Numpy, Pandas, Matplotlib, SciPy,
         Pillow, Scikit-learn.
 * **Dart:** building multiplatform UI with Material Design.
-* **Mathematics:** Strong background on Mathematics(Linear Algebra,
+* **Mathematics:** Strong background on Mathematics( Advanced Linear Algebra,
         Multivariable Calculus, Deep Learning Algorithms
 * **Algorithms and DT:** Sorting, Binary Trees, Recursion, Hash Tables, Algorithm Analysis, Linear Structures.
 
@@ -50,7 +50,7 @@ I'm a freshman student at the University of Puerto Rico on Mayaguez Campus. I'm 
 
 ~~~
 <div>
-<h6>Escuela Libre de Musica de Mayaguez</h6>
+<h6>Escuela Libre de Musica de Mayagüez</h6>
 <div class = "colbox-blue">Graduate Piano Student </div>
 <p>2015 - 2022</p>
 </div>
@@ -72,6 +72,6 @@ the Scoutmaster organizing the activities and as a teacher Staff.</p>
 @@row
 @@contact [![](/assets/github.png)](https://github.com/Cruiz102)@@
 
-@@contact [![](/assets/youtube.png)](hhttps://www.youtube.com/channel/UCgsPQiDKRPgj44ieexKTgRA) @@
+@@contact [![](/assets/youtube.png)](https://www.youtube.com/channel/UCgsPQiDKRPgj44ieexKTgRA) @@
 @@
 
