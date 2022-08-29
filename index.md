@@ -34,6 +34,8 @@ I'm a freshman student at the University of Puerto Rico on Mayagüez Campus. I'm
 * **Python:** Scientific Libraries: Numpy, Pandas, Matplotlib, SciPy,
         Pillow, Scikit-learn.
 * **Dart:** building multiplatform UI with Material Design.
+* **Javascript:** Dom manipulation, Canvas2D, P5.js, React.js, Material Design.
+* **HTML & CSS:**Structuring sites with HTML, Responsive Design, Bootstrap.
 * **Mathematics:** Strong background on Mathematics( Advanced Linear Algebra,
         Multivariable Calculus, Deep Learning Algorithms)
 * **Algorithms and DT:** Sorting, Binary Trees, Recursion, Hash Tables, Algorithm Analysis, Linear Structures.
