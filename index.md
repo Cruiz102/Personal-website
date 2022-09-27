@@ -38,7 +38,7 @@ I'm a freshman student at the University of Puerto Rico on Mayagüez Campus. I'm
 * **HTML & CSS:**Structuring sites with HTML, Responsive Design, Bootstrap.
 * **Mathematics:** Strong background on Mathematics( Advanced Linear Algebra,
         Multivariable Calculus, Deep Learning Algorithms)
-* **Algorithms and DT:** Sorting, Binary Trees, Recursion, Hash Tables, Algorithm Analysis, Linear Structures.
+* **Algorithms and DS:** Sorting, Binary Trees, Recursion, Hash Tables, Algorithm Analysis, Linear Structures.
 
 # Education:
 ~~~
